@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveenkumarch
 - 👀 I’m interested in Machine learning and computer vision
-- 🌱 I’m currently learning Mlops concepts
+- 🌱 I’m currently learning data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
     Email: chandra.naveen523@gmail.com
